@@ -1,0 +1,14 @@
+MPV values from the landau fit for ME21 after selection
+251.774
+254.902
+266.074
+255.516
+313.19
+279.662
+trimeed mean value from the histogram for ME21 after selection
+278.391
+279.862
+290.027
+285.924
+326.393
+319.206

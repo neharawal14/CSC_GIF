@@ -1,0 +1,9 @@
+Layers		MPV		chi_square		ndf		chi_square_per_ndf
+run8050
+layerslayer		372.99		37.411		17		2.20065
+1stlayer		347.802		13.4952		15		0.899677
+2ndlayer		406.775		58.0403		19		3.05475
+3rdlayer		334.866		18.4791		15		1.23194
+4thlayer		411.144		23.0642		18		1.28135
+5thlayer		384.921		22.9502		17		1.35001
+6thlayer		367.614		10.7637		17		0.633157

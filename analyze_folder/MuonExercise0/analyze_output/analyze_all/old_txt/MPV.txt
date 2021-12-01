@@ -1,0 +1,40 @@
+run7783
+mpv_ME21_layers_with_cuts trimmed fit
+270.933
+281.212
+274.999
+248.807
+260.81
+271.295
+run8077
+mpv_ME21_layers_with_cuts trimmed fit
+202.671
+200.448
+191.426
+180.76
+189.821
+186.973
+run8077
+mpv_ME21_layers_with_cuts trimmed fit
+202.671
+200.448
+191.426
+180.76
+189.821
+186.973
+run8077
+mpv_ME21_layers_with_cuts trimmed fit
+202.671
+200.448
+191.426
+180.76
+189.821
+186.973
+run7254
+mpv_ME21_layers_with_cuts trimmed fit
+309.289
+312.714
+311.276
+294.667
+310.925
+319.066

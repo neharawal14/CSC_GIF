@@ -1,0 +1,16 @@
+run6249
+mpv ME11 layers with cuts trimmed fit
+338.954
+278.636
+305.726
+240.638
+246.721
+242.454
+run6249
+mpv ME11 layers with cuts trimmed fit
+338.954
+274.796
+301.097
+233.262
+237.845
+233.87

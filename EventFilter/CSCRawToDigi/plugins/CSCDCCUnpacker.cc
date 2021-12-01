@@ -438,7 +438,8 @@ void CSCDCCUnpacker::produce(edm::Event& e, const edm::EventSetup& c) {
             ///first process chamber-wide digis such as LCT
             int vmecrate = cscData[iCSC].dmbHeader()->crateID();
             int dmb = cscData[iCSC].dmbHeader()->dmbID();
-
+            if (vmecrate == 1 && dmb == 4) {vmecrate = 13; dmb = 1;}
+          
             int icfeb = 0;   /// default value for all digis not related to cfebs
             int ilayer = 0;  /// layer=0 flags entire chamber
 

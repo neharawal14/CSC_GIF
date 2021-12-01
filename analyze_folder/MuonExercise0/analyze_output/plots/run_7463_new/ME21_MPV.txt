@@ -1,0 +1,6 @@
+1 layer	267.057
+2 layer	311.734
+3 layer	494.675
+4 layer	304.905
+5 layer	292.601
+6 layer	282.97

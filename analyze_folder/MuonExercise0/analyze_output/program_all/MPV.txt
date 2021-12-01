@@ -1,0 +1,154 @@
+run7783
+mpv_ME21_layers_with_cuts landau fit
+235.8
+233.521
+231.429
+235.358
+278.621
+264.126
+mpv_ME11_layers_with_cuts trimmed fit
+298.932
+272.561
+299.557
+259.467
+268.654
+245.305
+mpv_ME21_layers_with_cuts trimmed fit
+259.701
+266.271
+270.528
+268.948
+292.679
+281.499
+run7415
+mpv_ME21_layers_with_cuts landau fit
+257.291
+254.154
+258.496
+259.631
+300.044
+281.936
+mpv_ME11_layers_with_cuts trimmed fit
+308.714
+323.528
+353.09
+339.612
+337.046
+344.072
+mpv_ME21_layers_with_cuts trimmed fit
+280.667
+292.649
+317.702
+316.188
+331.651
+326.816
+run7276
+mpv_ME21_layers_with_cuts landau fit
+0
+0
+0
+0
+0
+0
+mpv_ME11_layers_with_cuts trimmed fit
+306.316
+375.758
+360.221
+366.573
+361.328
+357.001
+mpv_ME21_layers_with_cuts trimmed fit
+0
+306.316
+375.758
+360.221
+366.573
+361.328
+run6250
+mpv_ME21_layers_with_cuts landau fit
+250.459
+252.908
+263.55
+252.943
+315.785
+284.202
+mpv_ME11_layers_with_cuts trimmed fit
+295.853
+310.625
+319.656
+304.884
+313.004
+319.125
+mpv_ME21_layers_with_cuts trimmed fit
+277.727
+291.355
+312.999
+305.126
+333.977
+319.829
+run7523
+mpv_ME21_layers_with_cuts landau fit
+249.605
+245.137
+241.19
+243.794
+290.152
+273.561
+mpv_ME11_layers_with_cuts trimmed fit
+277.623
+266.035
+316.199
+282.044
+312.986
+270.145
+mpv_ME21_layers_with_cuts trimmed fit
+271.296
+270.701
+285.962
+285.661
+308.304
+300.981
+run7523
+mpv_ME21_layers_with_cuts landau fit
+249.605
+245.137
+241.19
+243.794
+290.152
+273.561
+mpv_ME11_layers_with_cuts trimmed fit
+277.623
+266.035
+316.199
+282.044
+312.986
+270.145
+mpv_ME21_layers_with_cuts trimmed fit
+271.296
+270.701
+285.962
+285.661
+308.304
+300.981
+run7572
+mpv_ME21_layers_with_cuts landau fit
+247.138
+243.494
+243.546
+240.32
+283.617
+265.225
+mpv_ME11_layers_with_cuts trimmed fit
+312.573
+262.998
+313.335
+273.095
+284.674
+255.975
+mpv_ME21_layers_with_cuts trimmed fit
+263.784
+269.222
+284.948
+279.109
+308.119
+291.639
