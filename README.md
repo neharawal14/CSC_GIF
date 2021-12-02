@@ -1,9 +1,9 @@
 # CSC_GIF
 CSC longevity studies
 
-## Code is in master branch
+## Code is in from-CMSSW_12_0_0_pre4
 
-### Important branches
+### Important folders
 1. Raw files are first converted to .root files and the .root files are stored in src/output_files
 2. Analyze Folder -> Have the analyzer code in it
 3. Code to Produce final root files with all the ME21 and ME11 selection -> analyze_folder/MuonExercise0/plugins/MuonExercise0.cc
