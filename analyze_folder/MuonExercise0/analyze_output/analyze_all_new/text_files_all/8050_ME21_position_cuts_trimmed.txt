@@ -1,8 +1,0 @@
-run8050
-mpv ME21 layers with postiion cuts trimmed fit
-348.828
-329.723
-314.321
-329.216
-355.905
-352.864

@@ -1,7 +1,0 @@
-<use name="clhep"/>
-<use name="cuda"/>
-<use name="FWCore/Framework"/>
-
-<export>
-  <lib name="1"/>
-</export>

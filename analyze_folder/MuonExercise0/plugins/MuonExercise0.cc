@@ -4,9 +4,7 @@
 // Class:      MuonExercise0
 //
 /**\class MuonExercise0 MuonExercise0.cc DASExercises/MuonExercise0/plugins/MuonExercise0.cc
-
  Description: [one line class summary]
-
  Implementation:
      [Notes on implementation]
 */
@@ -15,6 +13,7 @@
 //         Created:  Wed, 27 Nov 2019 09:09:57 GMT
 //
 //
+
 
 
 // system include files
@@ -52,7 +51,7 @@ class MuonExercise0 : public edm::one::EDAnalyzer<edm::one::SharedResources>  {
       virtual void endJob() override;
 
 
-
+// member functions created to analyze
       // member functions created by me
       
       void fill_charge_ME11();
@@ -538,12 +537,9 @@ DEFINE_FWK_MODULE(MuonExercise0);
 // there is a container CSCRecHit2DCollection to do so
 /*edm::Handle<CSCRecHit2DCollection> recHits;
 iEvent.getByToken(cscRecHitsToken, recHits);
-
 CSCRecHit2DCollection::const_iterator dRHIter;
 for (dRHIter = recHits->begin(); dRHIter != recHits->end(); dRHIter++) {
-
   cs_hit->Fill((*dRHIter).channels(1),(*dRHIter).nStrips()); // Histogram I was showing in my report
-
   if((*dRHIter).nStrips()==3){ .....  // Check if RecHit has 3 strips.
     // Work with good hits
     // };

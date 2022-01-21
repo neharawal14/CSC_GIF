@@ -1,8 +1,0 @@
-run8063
-mpv_ME21_layers_with_cuts trimmed fit
-354.107
-356.867
-358.199
-342.345
-335.843
-342.176

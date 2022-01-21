@@ -1,7 +1,0 @@
-<iftool name="cuda">
-  <bin file="testCUDAService.cpp test_main.cpp" name="testCUDAService">
-    <use name="catch2"/>
-    <use name="cuda"/>
-    <use name="HeterogeneousCore/CUDAServices"/>
-  </bin>
-</iftool>
